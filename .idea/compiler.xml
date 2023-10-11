@@ -8,6 +8,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CustomerMgmtCLIApp" />
+        <module name="EmployeePensionPlansMgmtCLIApp" />
+        <module name="untitled" />
       </profile>
     </annotationProcessing>
   </component>

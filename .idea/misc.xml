@@ -5,6 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/CustomerMgmtCLIApp/pom.xml" />
+        <option value="$PROJECT_DIR$/lab1b/maven/EmployeePensionPlansMgmtCLIApp/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Quiz-1/untitled/pom.xml" />
       </list>
     </option>
   </component>
