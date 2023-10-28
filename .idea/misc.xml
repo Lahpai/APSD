@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/CustomerMgmtCLIApp/pom.xml" />
+        <option value="$PROJECT_DIR$/lab1b/maven/EmployeePensionPlansMgmtCLIApp/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Quiz-1/untitled/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
